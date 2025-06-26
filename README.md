@@ -2,7 +2,7 @@
 
 **LearnHub** is a modern online learning platform that supports video lessons, interactive quizzes, course progress tracking, and user enrollments. Built using **React**, **Vite**, **TypeScript**, **ShadCN UI**, and **Supabase** for full-stack functionality.
 
-#Project is live , URL : learnhubbyjeevan.netlify.app
+🌐 **Live Site**: [learnhubbyjeevan.netlify.app](https://learnhubbyjeevan.netlify.app)
 ---
 
 ## 🚀 Features

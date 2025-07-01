@@ -33,7 +33,7 @@
 
 ### 1. Clone the Repository
 
-git clone https:[gitclone](//github.com/your-username/LearnHub.git) <br>
+git clone https: [ gitclone](//github.com/your-username/LearnHub.git) <br>
 
 cd LearnHub
 

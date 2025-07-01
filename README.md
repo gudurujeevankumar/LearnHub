@@ -33,7 +33,8 @@
 
 ### 1. Clone the Repository
 
-git clone https:[gitclone](//github.com/your-username/LearnHub.git)
+git clone https:[gitclone](//github.com/your-username/LearnHub.git) <br>
+
 cd LearnHub
 
 2. Install Dependencies

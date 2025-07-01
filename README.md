@@ -34,7 +34,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/LearnHub.git
+git clone https:(//github.com/your-username/LearnHub.git)
 cd LearnHub
 
 2. Install Dependencies

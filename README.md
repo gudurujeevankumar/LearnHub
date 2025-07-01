@@ -33,8 +33,7 @@
 
 ### 1. Clone the Repository
 
-```bash
-git clone https:(//github.com/your-username/LearnHub.git)
+git clone https:[gitclone](//github.com/your-username/LearnHub.git)
 cd LearnHub
 
 2. Install Dependencies
@@ -65,7 +64,6 @@ Ensure the following variables are defined in your .env file:
 VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=
 
-```
 ⸻
 
 📜 License
